@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-es un reposito de prueba del modulo 2
+Nicolas
+es una prueba de como crear un repositorio y clonarlo al escritiorio
+
